@@ -11,16 +11,16 @@ import android.widget.RelativeLayout;
 public class MainActivity extends AppCompatActivity {
     int currentIndex = 0;
     int[] images = {
-            R.drawable.ayumi_yoshida,
-            R.drawable.genta_kojima,
-            R.drawable.haibara_ai,
-            R.drawable.heiji,
-            R.drawable.hiroshi_agasa,
-            R.drawable.kogoro_mouri,
-            R.drawable.mitsuhiko_tsuburaya,
-            R.drawable.ran_mouri,
-            R.drawable.shinichi_kudo,
-            R.drawable.sonoko_suzuki
+            R.drawable.k_2,
+            R.drawable.k_3,
+            R.drawable.k_4,
+            R.drawable.k_5,
+            R.drawable.k_6,
+            R.drawable.k_7,
+            R.drawable.k_8,
+            R.drawable.k_9,
+            R.drawable.k_10,
+            R.drawable.k_11
     };
     Intent Slide;
     ConstraintLayout SlideLayout;
